@@ -1,7 +1,9 @@
 ## Slicing landing page TheBox
 
 <hr>
-#### Created using : 
+
+#### Created using :
+
 - ReactJS
 - TailwindCSS
 - Vite
